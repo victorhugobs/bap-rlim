@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Barros"
     given-names: "Victor Hugo"
-title: "Berth allocation problem as reinforcement learning with inventory control"
+title: "Berth allocation problem as reinforcement learning with inventory management"
 date-released: 2026-04-05
 url: "https://github.com/victorhugobs/bap-rlim/"
